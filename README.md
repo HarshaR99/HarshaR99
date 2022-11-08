@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 💾  I’m System Software Engineer at HPE.
 - 👯 I’m looking to collaborate with other engineers on Web3/Machine Learning projects.
 - 💬 Ask me about just anything, I'll love to research things I don't know about!
