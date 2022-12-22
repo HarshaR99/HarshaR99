@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 💾 I’m a Software Engineer at HPE.
 - 👯 I’m looking to collaborate with other engineers on Web3/Machine Learning projects.
-- 💬 Ask me about just anything, I'd reseach about it if I don't know about!
+- 💬 Ask me just about anything, I'd research if I don't know about it!
 - 📫 How to reach me: Hit one of the links in my bio 👈
 - ⚡ Fun fact: An iPhone has about 75 elements in it i.e., two-thirds of the periodic table!!
 
