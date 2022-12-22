@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 💾  I’m System Software Engineer at HPE.
+- 💾 I’m a Software Engineer at HPE.
 - 👯 I’m looking to collaborate with other engineers on Web3/Machine Learning projects.
 - 💬 Ask me about just anything, I'd reseach about it if I don't know about!
 - 📫 How to reach me: Hit one of the links in my bio 👈
