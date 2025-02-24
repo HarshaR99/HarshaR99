@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - I'm a grad student at Purdue University.
 - 💾 I was a Software Engineer at HPE.
-- 👯 I’m looking to collaborate with other engineers on Web3/Machine Learning projects.
+- 👯 I’m looking to collaborate with other engineers on A.I. projects.
 - 💬 Ask me just about anything, I'd research if I don't know about it!
 - 📫 How to reach me: Hit one of the links in my bio 👈
 - ⚡ Fun fact: An iPhone has about 75 elements in it i.e., two-thirds of the periodic table!!
