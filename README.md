@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 💾 I’m a Software Engineer at HPE.
+- ![image](https://github.com/user-attachments/assets/019a3c36-ab72-4165-ae8b-4b35b0941b27) I'm a grad student at Purdue University.
+
+- 💾 I was a Software Engineer at HPE.
 - 👯 I’m looking to collaborate with other engineers on Web3/Machine Learning projects.
 - 💬 Ask me just about anything, I'd research if I don't know about it!
 - 📫 How to reach me: Hit one of the links in my bio 👈
